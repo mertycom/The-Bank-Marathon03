@@ -1,4 +1,4 @@
 # The-Bank-Marathon03
-# Mert Cömertoğlu
-# Tuna Dağ
-# Burak Tosun
+Mert Cömertoğlu
+Tuna Dağ
+Burak Tosun
