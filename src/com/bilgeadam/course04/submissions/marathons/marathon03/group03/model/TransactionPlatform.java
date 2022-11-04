@@ -1,6 +1,5 @@
 package com.bilgeadam.course04.submissions.marathons.marathon03.group03.model;
 
-
 import java.util.Set;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -17,16 +16,16 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-@Table (name = "transaction_platforms")
+@Table(name = "transaction_platforms")
 public class TransactionPlatform {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "transaction_platform_oid")
 	private long oid;
-	
+
 	@Column(name = "platform_name", nullable = false, unique = true)
 	private String name;
-	
+
 	@OneToMany(mappedBy = "transactionPlatform")
 	private Set<Transaction> transactions;
 

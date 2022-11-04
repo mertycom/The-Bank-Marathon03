@@ -1,8 +1,6 @@
 package com.bilgeadam.course04.submissions.marathons.marathon03.group03.model;
 
-import java.util.Date;
 import java.util.Set;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -18,17 +16,17 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-@Table (name = "transaction_code")
+@Table(name = "transaction_code")
 public class TransactionCode {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "transaction_code_oid")
 	private long oid;
-	
+
 	@Column(name = "transaction_code_name", length = 50, nullable = false, unique = true)
 	private String name;
-	
+
 	@OneToMany(mappedBy = "transactionCode")
 	private Set<TransactionType> transactionType;
-	
+
 }

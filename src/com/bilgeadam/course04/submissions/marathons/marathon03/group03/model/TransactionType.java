@@ -19,19 +19,19 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-@Table (name = "transaction_types")
+@Table(name = "transaction_types")
 public class TransactionType {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "transaction_type_oid")
 	private long oid;
-	
+
 	@Column(name = "type_name", length = 50, nullable = false, unique = true)
 	private String name;
-	
+
 	@OneToMany(mappedBy = "transactionType")
 	private Set<Transaction> transactions;
-	
+
 	@ManyToOne
 	@JoinColumn(name = "transaction_code_oid", nullable = false)
 	private TransactionCode transactionCode;
@@ -40,5 +40,5 @@ public class TransactionType {
 		super();
 		this.name = name;
 	}
-	
+
 }

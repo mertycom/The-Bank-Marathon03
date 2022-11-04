@@ -8,26 +8,26 @@ import com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.Hibe
 
 import jakarta.persistence.TypedQuery;
 
-public class TransactionDAO implements DatabaseCRUDable<Transaction>{
+public class TransactionDAO implements DatabaseCRUDable<Transaction> {
 	@Override
 	public ArrayList<Transaction> retrieve() {
 		Session session = HibernateUtil.getSessionFactory().openSession();
-		String hql = "SELECT xxx FROM Transaction AS xxx";  
+		String hql = "SELECT xxx FROM Transaction AS xxx";
 		TypedQuery<Transaction> typedQuery = session.createQuery(hql, Transaction.class);
-		
-		ArrayList<Transaction> data = (ArrayList<Transaction>)typedQuery.getResultList();
+
+		ArrayList<Transaction> data = (ArrayList<Transaction>) typedQuery.getResultList();
 		return data;
 	}
 
 	@Override
 	public Transaction find(long oid) {
 		Session session = HibernateUtil.getSessionFactory().openSession();
-		
-		String hql = "SELECT xxx FROM Transaction AS xxx WHERE xxx.oid =: key";  
+
+		String hql = "SELECT xxx FROM Transaction AS xxx WHERE xxx.oid =: key";
 		TypedQuery<Transaction> typedQuery = session.createQuery(hql, Transaction.class);
 		typedQuery.setParameter("key", oid);
-		
-		Transaction data = (Transaction)typedQuery.getSingleResult();
+
+		Transaction data = (Transaction) typedQuery.getSingleResult();
 		return data;
 	}
 }

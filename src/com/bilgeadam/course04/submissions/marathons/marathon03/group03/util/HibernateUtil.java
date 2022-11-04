@@ -8,7 +8,7 @@ import jakarta.persistence.Embeddable;
 import jakarta.persistence.Entity;
 
 public class HibernateUtil {
-	
+
 	private static SessionFactory sessionFactory;
 
 	public static SessionFactory getSessionFactory() {

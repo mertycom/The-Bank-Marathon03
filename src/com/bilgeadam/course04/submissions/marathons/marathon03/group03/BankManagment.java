@@ -11,7 +11,7 @@ public class BankManagment {
 		}
 		CommonData.getInstance().setPropertiesFile(args[0]);
 		CommonData.getInstance().info("The Bank of Group03");
-		
+
 		System.out.println("The Bank of Group03\n");
 		Menu.showMenu();
 	}

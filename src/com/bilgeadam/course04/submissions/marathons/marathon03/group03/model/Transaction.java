@@ -1,15 +1,9 @@
 package com.bilgeadam.course04.submissions.marathons.marathon03.group03.model;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
-
 import com.bilgeadam.course04.submissions.marathons.marathon03.group03.dao.TransactionCodeDAO;
 import com.bilgeadam.course04.submissions.marathons.marathon03.group03.dao.TransactionTypeDAO;
-
-import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

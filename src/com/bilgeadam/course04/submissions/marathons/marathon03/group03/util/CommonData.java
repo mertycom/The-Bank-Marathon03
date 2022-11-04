@@ -10,7 +10,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
-
 public class CommonData {
 	private static final CommonData instance = new CommonData();
 	private Properties props;
@@ -25,7 +24,7 @@ public class CommonData {
 	public static CommonData getInstance() {
 		return CommonData.instance;
 	}
-	
+
 	public Scanner getScanner() {
 		if (this.sc == null) {
 			this.sc = new Scanner(System.in);
@@ -57,28 +56,28 @@ public class CommonData {
 	public String getHibernateConfigFileName() {
 		return this.getProperties().getProperty("hibernate.cfgFileName");
 	}
-	
+
 	public String getEntityFilesLocation() {
 		return this.getProperties().getProperty("hibernate.entity.filesLocationRoot");
 	}
-	
+
 	public String getEntityPackageName() {
 		return this.getProperties().getProperty("hibernate.entity.packageName");
 	}
-	
+
 	private Logger getLogger() {
 		if (this.logger == null) {
 			this.logger = Logger.getLogger("My beautifull Logger");
 			for (Handler handler : logger.getHandlers()) {
 				handler.setLevel(Level.parse(this.getProperties().getProperty("logger.level")));
 			}
-			
+
 			try {
 				String logFileName = this.getProperties().getProperty("logger.fileName");
-				FileHandler logFileHandler = new FileHandler(logFileName, 
+				FileHandler logFileHandler = new FileHandler(logFileName,
 						Boolean.parseBoolean(this.getProperties().getProperty("logger.createNewEachTime")));
 				logFileHandler.setFormatter(new SimpleFormatter());
-				logFileHandler.setLevel(Level.parse(this.getProperties().getProperty("logger.level")));	
+				logFileHandler.setLevel(Level.parse(this.getProperties().getProperty("logger.level")));
 				logger.addHandler(logFileHandler);
 			} catch (Exception e) {
 				System.err.println("Failed to create logger: " + e.getMessage());
