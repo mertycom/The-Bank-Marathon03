@@ -52,31 +52,31 @@ public class Menu {
 
 			accountListForCustomer = customer.getAccounts();
 			for (Account account : accountListForCustomer) {
-				fmt.format("%15s %15s %15s %15s %15s\n", "", "", "Sube No", "Hesap No", "Hesap Turu");
+				fmt.format("%15s %15s %18s %15s %15s\n", "", "", "Sube No", "Hesap No", "Hesap Turu");
 
-				fmt.format("%15s %15s %15s %15s %15s\n", "", "", account.getBranchName(), account.getNumber(),
+				fmt.format("%15s %15s %18s %15s %15s\n", "", "", account.getBranchName(), account.getNumber(),
 						account.getAccountTypeName());
 
 				transactionListForAccount = account.getTransactions();
+				fmt.format("%15s %15s %18s\n", "", "", "HESAP HAREKETLERI");
 				for (Transaction transaction : transactionListForAccount) {
-					fmt.format("%15s %15s %15s\n", "", "", "HESAP HAREKETLERI");
-
-					fmt.format("%15s %15s %15s %15s %15s %25s %20s\n", "", "", "Tarih", "Islem Kodu", "Hareket",
+					
+					fmt.format("%15s %15s %18s %15s %15s %25s %20s\n", "", "", "Tarih", "Islem Kodu", "Hareket",
 							"Islem", "Islem Bakiyesi");
 
-					fmt.format("%15s %15s %15s %15s %15s %25s %20s\n", "", "", transaction.getTransDate(),
+					fmt.format("%15s %15s %18s %15s %15s %25s %20s\n", "", "", transaction.getTransDate(),
 							transaction.getTransactionCodeName(), transaction.getNumber(),
 							transaction.getTransactionPlatformName() + "den " + transaction.getTransactionTypeName(),
 							transaction.getAmount());
 
 				}
 				fmt.format("-----------------------------------------------------------------"
-						+ "-------------------------------------------------------------\n");
+						+ "----------------------------------------------------------------\n");
 			}
 			fmt.format("========================================================================="
-					+ "=====================================================\n");
+					+ "========================================================\n");
 			fmt.format("========================================================================="
-					+ "=====================================================\n");
+					+ "========================================================\n");
 		}
 		System.out.println(fmt);
 	}
