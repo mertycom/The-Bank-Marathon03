@@ -1,0 +1,1792 @@
+Kas 04, 2022 2:25:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 2:25:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Mert
+Kas 04, 2022 3:31:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:31:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting Account class: com.entity.Account
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting AccountTypes class: com.entity.AccountTypes
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting Branch class: com.entity.Branch
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting Customer class: com.entity.Customer
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting Transaction class: com.entity.Transaction
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting TransactionPlatform class: com.entity.TransactionPlatform
+Kas 04, 2022 3:36:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData error
+SEVERE: 	---> Error while reflecting TransactionType class: com.entity.TransactionType
+Kas 04, 2022 3:39:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:39:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:39:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:40:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:42:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:42:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:42:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:45:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:45:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:45:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:46:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:48:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:48:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:48:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:51:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:55:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:55:06 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:55:07 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:58:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:58:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:58:32 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:59:26 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:59:26 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:59:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 3:59:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 3:59:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 3:59:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:00:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:02:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:02:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:02:17 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:02:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:11:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:11:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:11:22 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:12:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:12:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:12:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:13:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:13:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:17:26 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:17:26 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:17:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:33:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:57:02 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:57:02 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:57:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 4:59:36 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 4:59:36 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 4:59:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:00:54 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:00:54 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:00:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:01:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:01:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:01:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:01:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:04:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:11:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:11:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:11:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:31:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:32:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:33:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:34:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:34:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:34:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:38:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:44:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:44:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:44:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:46:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:48:24 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:55:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 5:56:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 5:56:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 5:56:29 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:01:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:02:31 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:02:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:02:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:02:51 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:03:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:03:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:04:05 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:05:02 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:05:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:05:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:05:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:05:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:06:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:06:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:06:01 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:06:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:07:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:07:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:07:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:07:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:08:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:08:11 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:08:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:22:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:22:20 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:22:21 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:22:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:22:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:22:44 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:22:56 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:25:18 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:25:18 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:25:19 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:25:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:25:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:25:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:28:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:29:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:29:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:30:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:30:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:30:27 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:30:28 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:32:30 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:32:50 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:33:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:33:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:33:45 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:35:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:35:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:35:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:37:33 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:39:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:39:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:39:04 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:39:41 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:40:25 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:40:58 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:40:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:43:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:43:12 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:43:13 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:43:57 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:44:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:44:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:44:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:44:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:44:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:44:48 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:45:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:45:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:45:34 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:45:35 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:45:52 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:45:52 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:45:53 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:48:49 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:50:40 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:52:03 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:54:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:54:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:54:46 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:57:43 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:58:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:59:00 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 6:59:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 6:59:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 6:59:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 6:59:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 6:59:16 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:00:10 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:00:59 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:01:47 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:03:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:03:08 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:03:09 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:03:54 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:03:54 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:03:55 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:09:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:09:37 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:09:38 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
+Kas 04, 2022 7:11:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData getLogger
+INFO: Logger created
+Kas 04, 2022 7:11:14 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> The Bank of Group03
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Account is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> AccountTypes is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Branch is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Customer is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> Transaction is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionCode is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionPlatform is added as an entity
+Kas 04, 2022 7:11:15 ÖS com.bilgeadam.course04.submissions.marathons.marathon03.group03.util.CommonData info
+INFO: 	---> TransactionType is added as an entity
