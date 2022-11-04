@@ -1,3 +1,17 @@
+-- Database: Marathon03_Group03
+
+-- DROP DATABASE IF EXISTS "Marathon03_Group03";
+
+CREATE DATABASE "Marathon03_Group03"
+    WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'Turkish_Turkey.utf8'
+    LC_CTYPE = 'Turkish_Turkey.utf8'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1
+    IS_TEMPLATE = False;
+
 -- Table: public.account_types
 
 -- DROP TABLE IF EXISTS public.account_types;
